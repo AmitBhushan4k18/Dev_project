@@ -7,7 +7,7 @@ import Editor from "./components/Editor";
 export default function App() {
   return (
     <div className="app">
-      <h1> Docs Management  </h1>
+      <h1> Docs Management pipeline  </h1>
 
       <Routes>
         <Route path="/" element={<Login />}></Route>
